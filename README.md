@@ -3,7 +3,7 @@
 
 ![Cindy Coconut](https://github.com/cindycoconut/cindycoconut/blob/main/image/cindycoconut.jpg)
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=cindycoconut;COMMUNITY+CYBER+IKUZO;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=cindycoconut;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
 # <img src="/media/tropy.gif" width="50px"> **GitHub Trophies** <img src="/media/tropy.gif" width="50px">
 <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
